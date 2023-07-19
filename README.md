@@ -1,6 +1,6 @@
 
 
-# Install json-server with the command:
+## Install json-server with the command:
 
 npm install -g json-server
 
